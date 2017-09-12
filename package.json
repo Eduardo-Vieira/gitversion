@@ -1,0 +1,11 @@
+{
+  "name": "gitversion",
+  "version": "1.0.0",
+  "description": "consultar o git log via node js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node gitversion.js"
+  },
+  "author": "Eduardo Vieira",
+  "license": "MIT"
+}
